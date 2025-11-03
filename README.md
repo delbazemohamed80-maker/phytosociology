@@ -12,3 +12,4 @@ c°		18,5	2,2
 NO3-		1,35	0,72
 Nh3		163,4	0,6
 <img width="321" height="121" alt="image" src="https://github.com/user-attachments/assets/e31e9057-e5e6-4448-b120-c3ec119d1dce" />
+https://youtu.be/bo_ICIsw6n8
